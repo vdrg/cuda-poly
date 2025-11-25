@@ -268,3 +268,5 @@ __marimo__/
 *.dwo
 
 _skbuild/
+
+compile_commands.json
